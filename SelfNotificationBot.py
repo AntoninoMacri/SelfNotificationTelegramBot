@@ -19,7 +19,7 @@ async def notify_user(update: Update, context):
 app = Application.builder().token(TOKEN).build()
 app.add_handler(MessageHandler(filters.TEXT & filters.ChatType.GROUPS, notify_user))
 
-print("Il bot avviato")
+print("Il bot è avviato")
 
 app.run_polling()
 
