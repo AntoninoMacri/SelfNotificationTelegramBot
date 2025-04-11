@@ -2,7 +2,7 @@
 export BOT_TOKEN=BOT_TOKEN
 export USER_ID=CODICE_TUO_ID
 
-2. mettere i dati corretti nell'env file. In particolare l'ID. Per ottenere il Tuo ID Telegram: Vai su @userinfobot (quello con centinaia di migliaia di utenti) e scrivigli /start.
+2. Mettere i dati corretti nell'env file. In particolare l'ID. Per ottenere il Tuo ID Telegram: Vai su @userinfobot (quello con centinaia di migliaia di utenti) e scrivigli /start.
 La risposta sarà del tipo: 
 👤 Your Telegram ID: 123456789
 🗣 First name: Nome
